@@ -680,7 +680,7 @@ def ui_header():
     st.set_page_config(page_title=APP_TITLE, page_icon="🏈", layout="wide")
     st.markdown(f"""
     <div class='cyc-hero'>
-      <h1 class='bffl-title'>🏈 {LEAGUE_NAME}</h1>
+      <h1 class='bffl-title'>"🏈" {LEAGUE_NAME}</h1>
       <p class='bffl-sub'>Choose Your Champion — League Pick'em</p>
     </div>
     """, unsafe_allow_html=True)
