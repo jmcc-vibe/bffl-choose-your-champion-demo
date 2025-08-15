@@ -681,7 +681,7 @@ def ui_header():
     st.markdown(f"""
     <div class='cyc-hero'>
       <h1 class='bffl-title'>"🏈" {LEAGUE_NAME}</h1>
-      <p class='bffl-sub'>Choose Your Champion League Pick'em</p>
+      <p class='bffl-sub'>Choose Your Champion League Pick em</p>
     </div>
     """, unsafe_allow_html=True)
 
